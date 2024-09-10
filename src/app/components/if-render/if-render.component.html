@@ -1,0 +1,10 @@
+<div class="class">
+    <div *ngIf="canShow">Estamos mostrando isso por que foi permitido(ou seja o Penis)</div>
+    <h2 *ngIf="name === 'Hetero com a Mão na Parede'; else nameNotFound">O meu nome é Hetero com a Mão na Parede</h2>
+    <ng-template #nameNotFound>
+        <div>
+            <h2>Nome Errado seu Jumento</h2>
+        </div>
+    </ng-template>
+    
+</div>

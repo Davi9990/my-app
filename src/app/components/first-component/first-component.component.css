@@ -1,3 +1,14 @@
 h2{
     color: brown;
 }
+
+p{
+    color: rgb(103, 103, 161);
+    padding: 5px;
+}
+
+.title{
+    background: #0ab8af;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+}
