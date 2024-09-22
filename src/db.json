@@ -1,0 +1,8 @@
+{
+    "youtubers":[
+        { "name": "John Doe", "img": "https://via.placeholder.com/150", "sound": "GOOD"},
+        { "name": "Jane Smith", "img": "https://via.placeholder.com/150", "sound": "MIDDLE"},
+        { "name": "Mike Johnson", "img": "https://via.placeholder.com/150", "sound": "PEAK"}
+      ]
+}
+
