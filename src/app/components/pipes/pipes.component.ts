@@ -1,0 +1,19 @@
+import { Component, OnInit  } from '@angular/core';
+
+@Component({
+  selector: 'app-pipes',
+  templateUrl: './pipes.component.html',
+  styleUrl: './pipes.component.css'
+})
+export class PipesComponent implements OnInit {
+
+  apenasTexto = "TESTANDO O CONSOLO";
+
+  hoje = new Date();
+  constructor(){}
+
+  ngOnInit(): void {
+
+  }
+
+}
